@@ -4,3 +4,5 @@
 
 /MicroRabbit.Domain.Core/bin/Debug/netcoreapp2.2
 /MicroRabbit.Domain.Core/obj
+/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp2.2
+/MicroRabbit.Infra.Bus/obj
