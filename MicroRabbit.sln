@@ -15,7 +15,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Domain.Core", "MicroRabbit.Domain.Core\MicroRabbit.Domain.Core.csproj", "{DEB10143-AD69-4832-AB21-38C6B589FD83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Infra.Bus", "MicroRabbit.Infra.Bus\MicroRabbit.Infra.Bus.csproj", "{92E97BC7-E743-4F19-9177-43E1594529EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Infra.Bus", "MicroRabbit.Infra.Bus\MicroRabbit.Infra.Bus.csproj", "{92E97BC7-E743-4F19-9177-43E1594529EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Infra.IoC", "MicroRabbit.Infra.IoC\MicroRabbit.Infra.IoC.csproj", "{5E8EEE81-7F73-43F2-A2DA-FE7C85B434D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{92E97BC7-E743-4F19-9177-43E1594529EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92E97BC7-E743-4F19-9177-43E1594529EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92E97BC7-E743-4F19-9177-43E1594529EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E8EEE81-7F73-43F2-A2DA-FE7C85B434D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8EEE81-7F73-43F2-A2DA-FE7C85B434D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8EEE81-7F73-43F2-A2DA-FE7C85B434D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8EEE81-7F73-43F2-A2DA-FE7C85B434D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -38,6 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{DEB10143-AD69-4832-AB21-38C6B589FD83} = {8F9F3898-8235-4430-821C-4B64CEA5A5B6}
 		{92E97BC7-E743-4F19-9177-43E1594529EE} = {5201005F-C724-4CB9-A115-28FF139FDC8D}
+		{5E8EEE81-7F73-43F2-A2DA-FE7C85B434D9} = {DFEA7121-CDBA-406A-8922-AE6FF016BE10}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD16D08E-4F10-4856-82F8-03B05A5C30AC}

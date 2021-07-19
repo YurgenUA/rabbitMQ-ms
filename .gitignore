@@ -6,3 +6,5 @@
 /MicroRabbit.Domain.Core/obj
 /MicroRabbit.Infra.Bus/bin/Debug/netcoreapp2.2
 /MicroRabbit.Infra.Bus/obj
+/MicroRabbit.Infra.IoC/obj
+/MicroRabbit.Infra.IoC/bin/Debug/netcoreapp2.2
