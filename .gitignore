@@ -8,3 +8,7 @@
 /MicroRabbit.Infra.Bus/obj
 /MicroRabbit.Infra.IoC/obj
 /MicroRabbit.Infra.IoC/bin/Debug/netcoreapp2.2
+/MicroRabbit.Banking.Api/obj
+/MicroRabbit.Banking.Application/obj
+/MicroRabbit.Banking.Data/obj
+/MicroRabbit.Banking.Domain/obj
