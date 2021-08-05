@@ -29,13 +29,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{3A7EC1EA-EC25-4B5B-8B17-00CB769FFA48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Banking.Api", "MicroRabbit.Banking.Api\MicroRabbit.Banking.Api.csproj", "{69EC50AC-5B1E-47D3-8BD7-B9E69F0EAAA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Banking.Api", "MicroRabbit.Banking.Api\MicroRabbit.Banking.Api.csproj", "{69EC50AC-5B1E-47D3-8BD7-B9E69F0EAAA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Banking.Application", "MicroRabbit.Banking.Application\MicroRabbit.Banking.Application.csproj", "{26396A8C-7D10-40E6-BC90-8449B9222DE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Banking.Application", "MicroRabbit.Banking.Application\MicroRabbit.Banking.Application.csproj", "{26396A8C-7D10-40E6-BC90-8449B9222DE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Banking.Data", "MicroRabbit.Banking.Data\MicroRabbit.Banking.Data.csproj", "{2B246B72-7076-4953-ACF9-334D421DA174}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Banking.Data", "MicroRabbit.Banking.Data\MicroRabbit.Banking.Data.csproj", "{2B246B72-7076-4953-ACF9-334D421DA174}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Banking.Domain", "MicroRabbit.Banking.Domain\MicroRabbit.Banking.Domain.csproj", "{BD523FF1-5CF5-4861-9FDD-C59D1D371EEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Banking.Domain", "MicroRabbit.Banking.Domain\MicroRabbit.Banking.Domain.csproj", "{BD523FF1-5CF5-4861-9FDD-C59D1D371EEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "etc", "etc", "{90FC11C3-699A-4AE1-9DCD-A255AEB646F1}"
+	ProjectSection(SolutionItems) = preProject
+		etc\docker-compose.yaml = etc\docker-compose.yaml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
