@@ -12,3 +12,7 @@
 /MicroRabbit.Banking.Application/obj
 /MicroRabbit.Banking.Data/obj
 /MicroRabbit.Banking.Domain/obj
+/MicroRabbit.Banking.Api/bin/Debug/netcoreapp2.2
+/MicroRabbit.Banking.Application/bin/Debug/netcoreapp2.2
+/MicroRabbit.Banking.Data/bin/Debug/netcoreapp2.2
+/MicroRabbit.Banking.Domain/bin/Debug/netcoreapp2.2
