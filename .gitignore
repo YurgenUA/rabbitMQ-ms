@@ -16,3 +16,13 @@
 /MicroRabbit.Banking.Application/bin/Debug/netcoreapp2.2
 /MicroRabbit.Banking.Data/bin/Debug/netcoreapp2.2
 /MicroRabbit.Banking.Domain/bin/Debug/netcoreapp2.2
+/.vs/MicroRabbit/DesignTimeBuild
+/.vs/MicroRabbit/v16/Server/sqlite3
+/MicroRabbit.Tansfer.Api/bin/Debug/netcoreapp2.2
+/MicroRabbit.Tansfer.Api/obj
+/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp2.2
+/MicroRabbit.Transfer.Application/obj
+/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp2.2
+/MicroRabbit.Transfer.Data/obj
+/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp2.2
+/MicroRabbit.Transfer.Domain/obj
