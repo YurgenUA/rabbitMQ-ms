@@ -52,7 +52,7 @@ namespace MicroRabbit.Infra.Bus
             where T : Event
             where TH : IEventHandler<T>
         {
-            var eventName = nameof(T);// typeof(T).Name;
+            var eventName =  typeof(T).Name; //nameof(T);
             var handlerType = typeof(TH);
 
             if (!_eventTypes.Contains(typeof(T)))
@@ -82,7 +82,7 @@ namespace MicroRabbit.Infra.Bus
             var con = factory.CreateConnection();
             var channel = con.CreateModel();
 
-            var eventName = nameof(T); // getType(T).Name;
+            var eventName = typeof(T).Name; //nameof(T); //
             var queue = channel.QueueDeclare(eventName, false, false, false, null);
 
             var consumer = new AsyncEventingBasicConsumer(channel);

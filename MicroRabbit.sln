@@ -52,7 +52,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{DBE03DA2-7
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{581B91DE-D7FE-4234-AA97-E1F9DDF26B0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Tansfer.Api", "MicroRabbit.Tansfer.Api\MicroRabbit.Tansfer.Api.csproj", "{6FF4F014-2D09-4639-A8FC-416EBE4F1740}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Transfer.Api", "MicroRabbit.Tansfer.Api\MicroRabbit.Transfer.Api.csproj", "{6FF4F014-2D09-4639-A8FC-416EBE4F1740}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Transfer.Application", "MicroRabbit.Transfer.Application\MicroRabbit.Transfer.Application.csproj", "{FEA0BB83-D2B0-4BD2-B175-3C80647B0180}"
 EndProject
